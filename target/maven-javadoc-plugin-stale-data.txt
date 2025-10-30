@@ -1,0 +1,63 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-classpath
+'/Users/yusuftaniyici/.m2/repository/software/amazon/awscdk/aws-cdk-lib/2.219.0/aws-cdk-lib-2.219.0.jar:/Users/yusuftaniyici/.m2/repository/software/amazon/awscdk/cdk-asset-awscli-v1/2.2.242/cdk-asset-awscli-v1-2.2.242.jar:/Users/yusuftaniyici/.m2/repository/software/amazon/awscdk/cdk-asset-node-proxy-agent-v6/2.1.0/cdk-asset-node-proxy-agent-v6-2.1.0.jar:/Users/yusuftaniyici/.m2/repository/software/amazon/awscdk/cdk-cloud-assembly-schema/48.16.0/cdk-cloud-assembly-schema-48.16.0.jar:/Users/yusuftaniyici/.m2/repository/software/amazon/jsii/jsii-runtime/1.117.0/jsii-runtime-1.117.0.jar:/Users/yusuftaniyici/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.20.0/jackson-core-2.20.0.jar:/Users/yusuftaniyici/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.20.0/jackson-databind-2.20.0.jar:/Users/yusuftaniyici/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.20/jackson-annotations-2.20.jar:/Users/yusuftaniyici/.m2/repository/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.19.0-rc2/jackson-datatype-jsr310-2.19.0-rc2.jar:/Users/yusuftaniyici/.m2/repository/org/jetbrains/annotations/19.0.0/annotations-19.0.0.jar:/Users/yusuftaniyici/.m2/repository/javax/annotation/javax.annotation-api/1.3.2/javax.annotation-api-1.3.2.jar:/Users/yusuftaniyici/.m2/repository/software/constructs/constructs/10.4.2/constructs-10.4.2.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+-sourcepath
+'/Users/yusuftaniyici/cdk-construct/cdk-constructs/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2020&#x2013;2025 <a href="https://todoapp.dev">TodoApp</a>. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/yusuftaniyici/cdk-construct/cdk-constructs/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-Xdoclint:none
+-doctitle
+'CDK Constructs 0.1.16-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' '/Users/yusuftaniyici/cdk-construct/cdk-constructs/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'CDK Constructs 0.1.16-SNAPSHOT API'
+dev.todoapp.infrastructure
+/Users/yusuftaniyici/.m2/repository/software/amazon/awscdk/aws-cdk-lib/2.219.0/aws-cdk-lib-2.219.0.jar = 1759352075000
+/Users/yusuftaniyici/.m2/repository/software/amazon/awscdk/cdk-asset-awscli-v1/2.2.242/cdk-asset-awscli-v1-2.2.242.jar = 1759205350878
+/Users/yusuftaniyici/.m2/repository/software/amazon/awscdk/cdk-asset-node-proxy-agent-v6/2.1.0/cdk-asset-node-proxy-agent-v6-2.1.0.jar = 1759205348900
+/Users/yusuftaniyici/.m2/repository/software/amazon/awscdk/cdk-cloud-assembly-schema/48.16.0/cdk-cloud-assembly-schema-48.16.0.jar = 1761675587008
+/Users/yusuftaniyici/.m2/repository/software/amazon/jsii/jsii-runtime/1.117.0/jsii-runtime-1.117.0.jar = 1761675587149
+/Users/yusuftaniyici/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.20.0/jackson-core-2.20.0.jar = 1759267751628
+/Users/yusuftaniyici/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.20.0/jackson-databind-2.20.0.jar = 1759267751910
+/Users/yusuftaniyici/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.20/jackson-annotations-2.20.jar = 1759267751669
+/Users/yusuftaniyici/.m2/repository/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.19.0-rc2/jackson-datatype-jsr310-2.19.0-rc2.jar = 1759205348666
+/Users/yusuftaniyici/.m2/repository/org/jetbrains/annotations/19.0.0/annotations-19.0.0.jar = 1759205348683
+/Users/yusuftaniyici/.m2/repository/javax/annotation/javax.annotation-api/1.3.2/javax.annotation-api-1.3.2.jar = 1759205348804
+/Users/yusuftaniyici/.m2/repository/software/constructs/constructs/10.4.2/constructs-10.4.2.jar = 1759205348832
+/Users/yusuftaniyici/cdk-construct/cdk-constructs/src/main/java/.DS_Store = 1761675577116
+/Users/yusuftaniyici/cdk-construct/cdk-constructs/src/main/java = 1761675577116
+/Users/yusuftaniyici/cdk-construct/cdk-constructs/target/reports/apidocs/tag-search-index.js = 1761675589509
+/Users/yusuftaniyici/cdk-construct/cdk-constructs/target/reports/apidocs/overview-tree.html = 1761675589498
+/Users/yusuftaniyici/cdk-construct/cdk-constructs/target/reports/apidocs/module-search-index.js = 1761675589509
+/Users/yusuftaniyici/cdk-construct/cdk-constructs/target/reports/apidocs/index.html = 1761675589517
+/Users/yusuftaniyici/cdk-construct/cdk-constructs/target/reports/apidocs/package-search-index.js = 1761675589509
+/Users/yusuftaniyici/cdk-construct/cdk-constructs/target/reports/apidocs/jquery-ui.overrides.css = 1761675589522
+/Users/yusuftaniyici/cdk-construct/cdk-constructs/target/reports/apidocs/index-all.html = 1761675589517
+/Users/yusuftaniyici/cdk-construct/cdk-constructs/target/reports/apidocs/allpackages-index.html = 1761675589508
+/Users/yusuftaniyici/cdk-construct/cdk-constructs/target/reports/apidocs/deprecated-list.html = 1761675589500
+/Users/yusuftaniyici/cdk-construct/cdk-constructs/target/reports/apidocs/member-search-index.js = 1761675589509
+/Users/yusuftaniyici/cdk-construct/cdk-constructs/target/reports/apidocs/script.js = 1761675589520
+/Users/yusuftaniyici/cdk-construct/cdk-constructs/target/reports/apidocs/stylesheet.css = 1761675589519
+/Users/yusuftaniyici/cdk-construct/cdk-constructs/target/reports/apidocs/help-doc.html = 1761675589518
+/Users/yusuftaniyici/cdk-construct/cdk-constructs/target/reports/apidocs/element-list = 1761675589468
+/Users/yusuftaniyici/cdk-construct/cdk-constructs/target/reports/apidocs/allclasses-index.html = 1761675589507
+/Users/yusuftaniyici/cdk-construct/cdk-constructs/target/reports/apidocs/type-search-index.js = 1761675589509
+/Users/yusuftaniyici/cdk-construct/cdk-constructs/target/reports/apidocs/search.js = 1761675589520
